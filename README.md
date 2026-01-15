@@ -124,24 +124,3 @@ Performance optimizations
 Developed for GitHub Game Off 2025 as a creative exploration of water-based gameplay mechanics.
 
 ⭐ If you like this project, please consider giving it a star!
-
-yaml
-Copy code
-
----
-
-### ✅ What this README does well
-✔ Recruiter-friendly  
-✔ Game-jam appropriate  
-✔ Clear setup instructions  
-✔ Professional structure  
-✔ Ready for open-source contributions  
-
-If you want, I can also:
-- Rewrite it for **itch.io**
-- Add **screenshots & badges**
-- Create **CONTRIBUTING.md**
-- Write **Issue & PR templates**
-- Set up **Godot CI workflow**
-
-Just tell me 👍
